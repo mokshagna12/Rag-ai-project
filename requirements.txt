@@ -1,0 +1,14 @@
+# Core
+langchain==0.2.12
+langchain-core==0.2.27
+langchain-community==0.2.11
+chromadb==0.5.3
+sentence-transformers==3.0.1
+pypdf==4.2.0
+
+# UIs
+streamlit==1.37.1
+gradio==4.44.0
+
+# Optional utilities
+tqdm==4.66.4
